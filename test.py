@@ -6,3 +6,4 @@ def main(msg):
     print(msg)
 
 main("Hello world")
+main("HOW are YOU???")
